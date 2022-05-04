@@ -1,0 +1,5 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <Container version="2">
+   <Name>invoiceninja</Name>
+   <Icon>https://raw.githubusercontent.com/gabriel-andreescu/unraid-templates/main/invoiceninja.png</Icon>
+ </Container>
